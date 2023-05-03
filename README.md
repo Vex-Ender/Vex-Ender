@@ -7,7 +7,7 @@
 
 Hello my is name Darius Williams. I'm Old Dominion student, My major is Game studies and design. 
 
-I'm good with C++.
+I'm good with C++ or C#.
 I use acceptable with Unity engine and I'm still unstanding unreal engine. 
 
 I love playing video game and anime 
